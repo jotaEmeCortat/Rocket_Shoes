@@ -7,7 +7,7 @@
 ## :camera: Layout
 
 <div>
-   <img src="https://github.com/jotaEmeCortat/rocket_shoes/tree/master/src/assets/images/rocket_shoes.png" width="400px" />
+   <img src="https://github.com/jotaEmeCortat/rocket_shoes/blob/master/src/assets/images/rocket_shoes.png" width="400px" />
 </div>
 
 &nbsp;
