@@ -1,7 +1,7 @@
 # RocketShoes
 
 ## Third challenge of the [track of ReactJS](https://github.com/jotaEmeCortat/Ignite-React) by Ignite / [Rocketseat](https://github.com/Rocketseat). The purpose of the project is to create a shopping cart.
-
+https://www.notion.so/Desafio-01-Criando-um-hook-de-carrinho-de-compras-5769216778794019a83f544e79167b12
 &nbsp;
 
 ## :camera: Layout

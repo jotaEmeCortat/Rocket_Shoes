@@ -49,7 +49,7 @@ const Cart = (): JSX.Element => {
         <thead>
           <tr>
             <th aria-label="product image" />
-            <th>PRODUTO</th>
+            <th>PRODUCT</th>
             <th>QTD</th>
             <th>SUBTOTAL</th>
             <th aria-label="delete icon" />
@@ -108,7 +108,7 @@ const Cart = (): JSX.Element => {
       </ProductTable>
 
       <footer>
-        <button type="button">Finalizar pedido</button>
+        <button type="button">Finalize order</button>
 
         <Total>
           <span>TOTAL</span>
